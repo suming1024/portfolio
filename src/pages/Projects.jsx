@@ -9,6 +9,21 @@ export default function Projects() {
                 project01
             </a>
         </li>
+        <li className="project-card">
+            <a href="https://프로젝트2주소" target="_blank" rel="noopener noreferrer">
+                project02
+            </a>
+        </li>
+        <li className="project-card">
+            <a href="https://프로젝트3주소" target="_blank" rel="noopener noreferrer">
+                project03
+            </a>
+        </li>
+        <li className="project-card">
+            <a href="https://프로젝트4주소" target="_blank" rel="noopener noreferrer">
+                project04
+            </a>
+        </li>
       </ul>
     </div>
   );
